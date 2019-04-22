@@ -1,0 +1,79 @@
+body{
+    margin:0;
+}
+header{
+    background-color: gray;
+    margin-bottom: 3em;
+}
+.credencials{
+    color: white;
+    margin-left: 45%;
+    margin-top: 10%;
+    font-size: 2em;
+}
+.credencials input{
+    height: 1.5em;
+    width: 25em;
+    margin-left: -10%;
+    font-size: 0.5em;
+    border-radius: 0.5em;
+}
+.credencials button{
+    border-radius: 0.5em;
+    font-size: 1em;
+    margin-left: -3.3em;
+    margin-top: 0.5em;
+    width: 12.7em;
+}
+header a{
+    text-decoration: none;
+
+}
+ul{
+    list-style-type: none;
+    display: inline-block;
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+    float: left;
+  }
+  
+  li a {
+      
+    display: block;
+    color: black;
+    text-align: right;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  ul{
+      margin-left: 75%;
+  }
+  .home-btn{
+     
+      color: black;
+      font-size: 24px;
+      overflow: hidden;
+    margin-left: 1.5em;
+    padding-bottom: -3;
+    padding:10px 17px;
+    float: left;
+
+
+  }
+
+  li a:hover {
+    background-color: rgb(180, 172, 172);
+  }
+  .home-btn:hover {
+    background-color: rgb(180, 172, 172);
+  }
+
+  .borderRed{
+  border-color:red;
+  }
+
